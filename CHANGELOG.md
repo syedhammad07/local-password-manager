@@ -1,5 +1,11 @@
 # Changelog
 
+## 13 November 2026
+- Reordered the Launch Requests board in Asana to New Requests → Triage → In Progress → Review / Approval → Done → Parked, and retook the board, list, form and dashboard screenshots.
+- Removed two practice tasks from Launch Requests.
+- Aligned the "Requirements approved" milestone date (22 Nov) in the MVP project overview.
+- Added the repository description and topics.
+
 ## 12 November 2026
 - Added the full project report (`REPORT.md`) covering:
   - the group foundation;

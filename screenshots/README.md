@@ -6,9 +6,9 @@ Screenshots taken from the Asana workspace "Local Password Manager" on 12 Novemb
 
 | | |
 |---|---|
-| ![](p2-00-overview-status.jpg) Project overview and status update | ![](p2-01-board-left.jpg) Board: Parked, Done, Review / Approval |
-| ![](p2-02-board-right.jpg) Board: New Requests, In Progress, Triage | ![](p2-03-list-custom-fields.jpg) List view with Request Type and Priority |
-| ![](p2-05-dashboard.jpg) Dashboard KPIs | ![](p2-04-dashboard-customize.jpg) Dashboard with incomplete tasks by section, and the Customize panel |
+| ![](p2-00-overview-status.jpg) Project overview and status update | ![](p2-01-board-left.jpg) Board: New Requests, Triage, In Progress, Review / Approval |
+| ![](p2-02-board-right.jpg) Board: Review / Approval, Done, Parked | ![](p2-03-list-custom-fields.jpg) List view with Request Type and Priority |
+| ![](p2-04-dashboard-customize.jpg) Dashboard: KPIs and incomplete tasks by section (Review / Approval is the bottleneck) | |
 | ![](p2-06-automations-list.jpg) Automations: R1 and R2 | ![](p2-07-rule-r1.jpg) R1: auto-assign by Request Type |
 | ![](p2-08-rule-r2.jpg) R2: completed tasks move to Done | ![](p2-09-template-task.jpg) Task created from the Marketing Asset Request template |
 | ![](p2-10-template-subtasks.jpg) Template subtasks and activity log | ![](p2-11-form-icon.jpg) Form icon on the New Requests section |

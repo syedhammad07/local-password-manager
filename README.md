@@ -114,7 +114,7 @@ flowchart LR
 .
 ├── README.md                          ← you are here
 ├── REPORT.pdf                         ← designed report (17 pages, clickable contents)
-├── REPORT.md                          ← full report in Markdown (all 32 screenshots)
+├── REPORT.md                          ← full report in Markdown (all 31 screenshots)
 ├── docs/
 │   ├── README.md                      ← index of all documents
 │   ├── person-2-workflow-automation.md← deep dive: form, fields, template, rules, monitoring
